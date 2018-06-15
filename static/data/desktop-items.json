@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "name": "Folder 1",
+      "id": "A896YGSLCOF8",
+      "query": "desktop/Folder 1",
+      "className": "item-desktop",
+      "icon": { "className": "folder" },
+      "column": 1,
+      "row": 1
+    },
+    {
+      "name": "Folder 2",
+      "id": "A896YGSLCOF8",
+      "query": "desktop/Folder 2",
+      "className": "item-desktop",
+      "icon": { "className": "folder" },
+      "column": 1,
+      "row": 2
+    },
+    {
+      "name": "Folder 3",
+      "id": "unset",
+      "className": "item-desktop",
+      "icon": { "className": "folder" },
+      "column": 2,
+      "row": 1,
+      "link": 1
+    },
+    {
+      "name": "Folder 4: A folder with a not very long name.",
+      "id": "A896YGSLCOF8",
+      "query": "desktop/Folder 4: A folder with a not very long name.",
+      "className": "item-desktop",
+      "icon": { "className": "folder" },
+      "column": 1,
+      "row": 1
+    },
+    {
+      "name": "Atom",
+      "id": "atom_OIOWFV4XMLYB",
+      "className": "item-desktop",
+      "icon": { "className": "atom atom-outline" },
+      "column": 20,
+      "row": 1,
+      "link": 1
+    },
+    {
+      "name": "Folder 5",
+      "id": "A896YGSLCOF8",
+      "query": "desktop/Folder 5",
+      "className": "item-desktop",
+      "icon": { "className": "folder" }
+    },
+    {
+      "name": "Eclipse Neon",
+      "className": "item-desktop",
+      "icon": { "className": "eclipse-neon desktop" },
+      "link": 1
+    },
+    {
+      "name": "Google Chrome",
+      "id": "chromeQPPY2SEKS479",
+      "className": "item-desktop",
+      "icon": { "URL": "static/img/icon/chrome.svg.png" },
+      "link": 1
+    },
+    {
+      "name": "myfile.tar.gz",
+      "className": "item-desktop",
+      "icon": { "className": "unknown desktop" }
+    }
+  ]
+}

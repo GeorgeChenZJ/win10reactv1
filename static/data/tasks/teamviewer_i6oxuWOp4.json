@@ -1,0 +1,6 @@
+{
+  "id": "teamviewer_i6oxuWOp4",
+  "name": "Teamviewer",
+  "isBackgroundTask": 1,
+  "backgroundIcon": {"hidden": 1,"className":"teamviewer bg"}
+}

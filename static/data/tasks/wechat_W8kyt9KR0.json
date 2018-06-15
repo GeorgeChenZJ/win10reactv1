@@ -1,0 +1,16 @@
+{
+  "id": "wechat_W8kyt9KR0",
+  "name": "WeChat",
+  "isBackgroundTask": 1,
+  "backgroundIcon": {"className":"wechat bg coloured"},
+  "taskbarIcon": {
+    "className": "wechat coloured task"
+  },
+  "stayBackground": 1,
+  "window": {
+    "windowIcon": {
+      "className": "wechat bg coloured"
+    },
+    "backgroundColor": "rgba(42,42,42, 0.9)"
+  }
+}
