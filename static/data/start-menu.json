@@ -30,8 +30,10 @@
       "often": 0
     },
     {
-      "name": "<3.2Chrome",
-      "icon": {"className": "unknown stm"},
+      "name": "<3.2 Folder",
+      "icon": {"className": "folder stm"},
+      "id": "A896YGSLCOF8",
+      "query": "startmenu/folder 1",
       "type": 0,
       "latest": 0,
       "often": 0
